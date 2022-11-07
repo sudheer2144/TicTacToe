@@ -50,7 +50,7 @@ public class TicTacToe implements ActionListener {
         frame.add(t_panel,BorderLayout.NORTH);
         frame.add(button_Panel);
         
-        firstTurn();//this will return '0' for 'X' turn or '1' for 'O' turn
+        firstTurn();//this will return '0' for 'X's turn or '1' for 'O's turn
     }
     
     @Override
